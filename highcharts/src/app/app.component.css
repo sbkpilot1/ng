@@ -1,0 +1,14 @@
+.chart-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.chart {
+  padding: 20px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  width: 50%;
+}
